@@ -1,0 +1,1 @@
+The code for the visualizations is in the notebook file "DataViz_Visualizations". It's recommended to use colab as that is the environment we used.
